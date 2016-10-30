@@ -1,0 +1,10 @@
+[package]
+name = "pingbot"
+version = "0.1.0"
+authors = ["Chris Jaure <chrisjaure@gmail.com>"]
+
+[dependencies]
+slack-hook = "0.2"
+hyper = "0.9.10"
+docopt = "0.6"
+rustc-serialize = "0.3"
